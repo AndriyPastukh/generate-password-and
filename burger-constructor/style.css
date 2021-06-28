@@ -1,0 +1,66 @@
+*{
+padding: 0px;
+margin: 0px;
+box-sizing: border-box;
+
+}
+
+
+body{
+
+		
+	   font-family: 'Roboto', sans-serif;
+	   background-color: white;
+	  
+
+}
+
+
+
+.wrap{
+
+padding: 50px;
+
+}
+
+.Chooser{
+width: 200px;
+background-color: black;
+cursor: pointer;
+font-size: 30px;
+
+color: white;
+
+}
+
+.item{
+width: 178px;
+height: 178px;
+border-radius: 15px;
+border: 1px solid black;
+
+}
+
+.row{
+display: flex;
+flex-direction: row;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

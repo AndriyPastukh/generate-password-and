@@ -1,0 +1,54 @@
+*{
+padding:0px;
+margin:0px;
+box-sizing: border-box;
+
+
+
+}
+
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+
+
+.header{
+min-height: 100px;
+width: 100%;
+display: flex;
+justify-content:space-around;
+align-items: center;
+background-color: black;
+
+}
+
+
+.logo{
+text-decoration: none;
+color: white;
+font-size: 70px;
+font-family: 'Lobster', cursive;
+
+}
+
+
+.nav a{
+text-decoration: none;
+color: white;
+padding: 10px;
+
+}
+.nav a:hover{
+color: gray;
+
+
+}
+
+
+.nav{
+
+
+}
+
+
